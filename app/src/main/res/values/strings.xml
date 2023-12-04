@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">L09_GUDA_66443_Calculator_n10k</string>
+    <string-array name="base_no">
+        <item>2</item>
+        <item>8</item>
+        <item>10</item>
+        <item>16</item>
+    </string-array>
+</resources>
